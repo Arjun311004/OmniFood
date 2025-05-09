@@ -1,2 +1,22 @@
 # OmniFood
-A frontend webpage using HTML and CSS
+
+OmniFood is a beautifully crafted frontend webpage created using **HTML** and **CSS**. This project showcases a modern, responsive design suitable for a food delivery or restaurant service website.
+
+## Features
+
+- **Responsive Design:** Optimized for all screen sizes, from mobile devices to desktops.
+- **Clean and Modern UI:** Attractive layout with smooth navigation.
+- **HTML & CSS Expertise:** Demonstrates well-structured HTML and modern CSS techniques.
+- **Cross-Browser Compatibility:** Works seamlessly across major browsers.
+
+## Technologies Used
+
+- **HTML**: For structuring the content.
+- **CSS**: For styling the webpage and creating the responsive design.
+- **JavaScript** (Optional): For interactive elements, if applicable.
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Arjun311004/OmniFood.git
