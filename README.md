@@ -20,3 +20,23 @@ OmniFood is a beautifully crafted frontend webpage created using **HTML** and **
 1. Clone the repository:
    ```bash
    git clone https://github.com/Arjun311004/OmniFood.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd OmniFood
+   ```
+3. Open the `index.html` file in your browser to view the webpage.
+
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+- **Arjun311004** - [GitHub Profile](https://github.com/Arjun311004)
+```
+
+Feel free to replace placeholders like `path/to/screenshot.png` with actual paths or links to your screenshots/live site. Let me know if you'd like further adjustments!
