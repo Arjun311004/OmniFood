@@ -39,4 +39,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Arjun311004** - [GitHub Profile](https://github.com/Arjun311004)
 ```
 
-Feel free to replace placeholders like `path/to/screenshot.png` with actual paths or links to your screenshots/live site. Let me know if you'd like further adjustments!
